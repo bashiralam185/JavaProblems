@@ -9,6 +9,6 @@
 
 
 <h2>Screenshots</h2>
-![](contactapp1.PNG)
+![](img/contactapp1.png)
 #
-![](contactapp2.png)
+![](img/contactapp2.png)
