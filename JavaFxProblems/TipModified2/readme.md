@@ -12,6 +12,6 @@ IntelliJ IDEA - <br>
 
 <h3> App Screenshots </h3>
 
-![](img/tip1.JPG)
+![](img/tip1.png)
 #
-![](img/tip2.JPG)
+![](img/tip2.png)
